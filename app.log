@@ -1,0 +1,347 @@
+2024-05-13 16:01:57 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-13 16:01:57 INFO: [33mPress CTRL+C to quit[0m
+2024-05-13 16:01:57 INFO:  * Restarting with stat
+2024-05-13 16:01:59 WARNING:  * Debugger is active!
+2024-05-13 16:01:59 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:02:04 INFO: User input:  Hello GPT
+2024-05-13 16:02:05 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:05 INFO: Retrying request to /chat/completions in 0.824338 seconds
+2024-05-13 16:02:06 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:06 INFO: Retrying request to /chat/completions in 1.548299 seconds
+2024-05-13 16:02:08 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:09 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:09 INFO: Retrying request to /chat/completions in 0.813564 seconds
+2024-05-13 16:02:10 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:10 INFO: Retrying request to /chat/completions in 1.772028 seconds
+2024-05-13 16:02:12 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:14 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:14 INFO: Retrying request to /chat/completions in 0.883390 seconds
+2024-05-13 16:02:15 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:15 INFO: Retrying request to /chat/completions in 1.681865 seconds
+2024-05-13 16:02:17 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:02:17 INFO: 127.0.0.1 - - [13/May/2024 16:02:17] "POST /chat HTTP/1.1" 200 -
+2024-05-13 16:06:57 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-13 16:06:57 INFO: [33mPress CTRL+C to quit[0m
+2024-05-13 16:06:57 INFO:  * Restarting with stat
+2024-05-13 16:06:58 WARNING:  * Debugger is active!
+2024-05-13 16:06:58 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:07:04 INFO: User input:  Hello GPT
+2024-05-13 16:07:05 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:05 INFO: Retrying request to /chat/completions in 0.929880 seconds
+2024-05-13 16:07:06 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:06 INFO: Retrying request to /chat/completions in 1.727625 seconds
+2024-05-13 16:07:08 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:09 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:09 INFO: Retrying request to /chat/completions in 0.903242 seconds
+2024-05-13 16:07:10 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:10 INFO: Retrying request to /chat/completions in 1.621856 seconds
+2024-05-13 16:07:12 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:07:12 INFO: 127.0.0.1 - - [13/May/2024 16:07:12] "POST /chat HTTP/1.1" 200 -
+2024-05-13 16:07:51 INFO: 127.0.0.1 - - [13/May/2024 16:07:51] "[32mGET / HTTP/1.1[0m" 302 -
+2024-05-13 16:07:51 INFO: 127.0.0.1 - - [13/May/2024 16:07:51] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-05-13 16:11:30 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 16:11:30 INFO:  * Restarting with stat
+2024-05-13 16:11:31 WARNING:  * Debugger is active!
+2024-05-13 16:11:31 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:11:34 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 16:11:34 INFO:  * Restarting with stat
+2024-05-13 16:11:35 WARNING:  * Debugger is active!
+2024-05-13 16:11:35 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:11:37 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 16:11:37 INFO:  * Restarting with stat
+2024-05-13 16:11:38 WARNING:  * Debugger is active!
+2024-05-13 16:11:38 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:11:48 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 16:11:48 INFO:  * Restarting with stat
+2024-05-13 16:11:49 WARNING:  * Debugger is active!
+2024-05-13 16:11:49 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:11:53 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 16:11:53 INFO:  * Restarting with stat
+2024-05-13 16:15:02 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-13 16:15:02 INFO: [33mPress CTRL+C to quit[0m
+2024-05-13 16:15:02 INFO:  * Restarting with stat
+2024-05-13 16:15:03 WARNING:  * Debugger is active!
+2024-05-13 16:15:03 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 16:15:07 INFO: User input:  Hello GPT
+2024-05-13 16:15:07 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:07 INFO: Retrying request to /chat/completions in 0.865184 seconds
+2024-05-13 16:15:08 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:08 INFO: Retrying request to /chat/completions in 1.859950 seconds
+2024-05-13 16:15:11 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:12 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:12 INFO: Retrying request to /chat/completions in 0.844474 seconds
+2024-05-13 16:15:13 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:13 INFO: Retrying request to /chat/completions in 1.913265 seconds
+2024-05-13 16:15:15 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 16:15:15 INFO: 127.0.0.1 - - [13/May/2024 16:15:15] "POST /chat HTTP/1.1" 200 -
+2024-05-13 17:43:56 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-13 17:43:56 INFO: [33mPress CTRL+C to quit[0m
+2024-05-13 17:43:56 INFO:  * Restarting with stat
+2024-05-13 17:43:57 WARNING:  * Debugger is active!
+2024-05-13 17:43:57 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 17:44:13 INFO: User input:  Hello GPT
+2024-05-13 17:44:13 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:13 INFO: Retrying request to /chat/completions in 0.802227 seconds
+2024-05-13 17:44:14 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:14 INFO: Retrying request to /chat/completions in 1.681860 seconds
+2024-05-13 17:44:16 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:17 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:17 INFO: Retrying request to /chat/completions in 0.855905 seconds
+2024-05-13 17:44:18 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:18 INFO: Retrying request to /chat/completions in 1.704833 seconds
+2024-05-13 17:44:20 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 17:44:20 INFO: 127.0.0.1 - - [13/May/2024 17:44:20] "POST /chat HTTP/1.1" 200 -
+2024-05-13 17:44:44 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 17:44:44 INFO:  * Restarting with stat
+2024-05-13 17:44:45 WARNING:  * Debugger is active!
+2024-05-13 17:44:45 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 17:44:47 INFO:  * Detected change in 'c:\\Users\\aleen\\OneDrive\\Desktop\\FAQ\\app.py', reloading
+2024-05-13 17:44:47 INFO:  * Restarting with stat
+2024-05-13 17:44:48 WARNING:  * Debugger is active!
+2024-05-13 17:44:48 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 18:00:28 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-13 18:00:28 INFO: [33mPress CTRL+C to quit[0m
+2024-05-13 18:00:28 INFO:  * Restarting with stat
+2024-05-13 18:00:29 WARNING:  * Debugger is active!
+2024-05-13 18:00:29 INFO:  * Debugger PIN: 846-413-941
+2024-05-13 18:00:44 INFO: User input:  Hello GPT
+2024-05-13 18:00:45 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:45 INFO: Retrying request to /chat/completions in 0.918586 seconds
+2024-05-13 18:00:46 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:46 INFO: Retrying request to /chat/completions in 1.962058 seconds
+2024-05-13 18:00:48 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:49 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:49 INFO: Retrying request to /chat/completions in 0.839802 seconds
+2024-05-13 18:00:50 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:50 INFO: Retrying request to /chat/completions in 1.787100 seconds
+2024-05-13 18:00:53 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-13 18:00:53 INFO: 127.0.0.1 - - [13/May/2024 18:00:53] "POST /chat HTTP/1.1" 200 -
+2024-05-14 12:20:35 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-14 12:20:35 INFO: [33mPress CTRL+C to quit[0m
+2024-05-14 12:20:35 INFO:  * Restarting with stat
+2024-05-14 12:20:36 WARNING:  * Debugger is active!
+2024-05-14 12:20:36 INFO:  * Debugger PIN: 846-413-941
+2024-05-14 12:20:55 INFO: User input:  Hello GPT
+2024-05-14 12:20:55 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:20:55 INFO: Retrying request to /chat/completions in 0.882339 seconds
+2024-05-14 12:20:57 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:20:57 INFO: Retrying request to /chat/completions in 1.721874 seconds
+2024-05-14 12:20:59 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:21:00 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:21:00 INFO: Retrying request to /chat/completions in 0.953370 seconds
+2024-05-14 12:21:01 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:21:01 INFO: Retrying request to /chat/completions in 1.849519 seconds
+2024-05-14 12:21:03 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-14 12:21:03 INFO: 127.0.0.1 - - [14/May/2024 12:21:03] "POST /chat HTTP/1.1" 200 -
+2024-05-14 12:50:43 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-14 12:50:43 INFO: [33mPress CTRL+C to quit[0m
+2024-05-14 12:50:43 INFO:  * Restarting with stat
+2024-05-14 12:50:44 WARNING:  * Debugger is active!
+2024-05-14 12:50:44 INFO:  * Debugger PIN: 846-413-941
+2024-05-15 10:16:03 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-15 10:16:03 INFO: [33mPress CTRL+C to quit[0m
+2024-05-15 10:16:03 INFO:  * Restarting with stat
+2024-05-15 10:16:04 WARNING:  * Debugger is active!
+2024-05-15 10:16:04 INFO:  * Debugger PIN: 846-413-941
+2024-05-15 10:16:57 INFO: User input:  Hello GPT
+2024-05-15 10:16:57 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:16:57 INFO: Retrying request to /chat/completions in 0.937240 seconds
+2024-05-15 10:16:59 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:16:59 INFO: Retrying request to /chat/completions in 1.986601 seconds
+2024-05-15 10:17:01 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:17:02 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:17:02 INFO: Retrying request to /chat/completions in 0.884171 seconds
+2024-05-15 10:17:03 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:17:03 INFO: Retrying request to /chat/completions in 1.886497 seconds
+2024-05-15 10:17:05 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 10:17:05 INFO: 127.0.0.1 - - [15/May/2024 10:17:05] "POST /chat HTTP/1.1" 200 -
+2024-05-15 14:39:26 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-15 14:39:26 INFO: [33mPress CTRL+C to quit[0m
+2024-05-15 14:39:26 INFO:  * Restarting with stat
+2024-05-15 14:39:27 WARNING:  * Debugger is active!
+2024-05-15 14:39:27 INFO:  * Debugger PIN: 172-469-799
+2024-05-15 14:39:32 INFO: User input:  Hello GPT
+2024-05-15 14:39:32 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:32 INFO: Retrying request to /chat/completions in 0.891652 seconds
+2024-05-15 14:39:34 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:34 INFO: Retrying request to /chat/completions in 1.889817 seconds
+2024-05-15 14:39:36 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:36 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:36 INFO: Retrying request to /chat/completions in 0.875700 seconds
+2024-05-15 14:39:38 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:38 INFO: Retrying request to /chat/completions in 1.849703 seconds
+2024-05-15 14:39:40 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 14:39:40 INFO: 127.0.0.1 - - [15/May/2024 14:39:40] "POST /chat HTTP/1.1" 200 -
+2024-05-15 15:30:59 INFO: User input:  Hello GPT
+2024-05-15 15:30:59 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:30:59 INFO: Retrying request to /chat/completions in 0.965932 seconds
+2024-05-15 15:31:01 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:31:01 INFO: Retrying request to /chat/completions in 1.983913 seconds
+2024-05-15 15:31:03 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:31:04 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:31:04 INFO: Retrying request to /chat/completions in 0.938617 seconds
+2024-05-15 15:31:06 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:31:06 INFO: Retrying request to /chat/completions in 1.890883 seconds
+2024-05-15 15:31:08 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-15 15:31:08 INFO: 127.0.0.1 - - [15/May/2024 15:31:08] "POST /chat HTTP/1.1" 200 -
+2024-05-15 15:37:07 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-15 15:37:07 INFO: [33mPress CTRL+C to quit[0m
+2024-05-15 15:37:07 INFO:  * Restarting with stat
+2024-05-15 15:37:08 WARNING:  * Debugger is active!
+2024-05-15 15:37:08 INFO:  * Debugger PIN: 172-469-799
+2024-05-15 16:03:02 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-15 16:03:02 INFO: [33mPress CTRL+C to quit[0m
+2024-05-15 16:03:02 INFO:  * Restarting with stat
+2024-05-15 16:03:03 WARNING:  * Debugger is active!
+2024-05-15 16:03:03 INFO:  * Debugger PIN: 172-469-799
+2024-05-17 11:28:45 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-17 11:28:45 [33mPress CTRL+C to quit[0m
+2024-05-17 11:28:45  * Restarting with stat
+2024-05-17 11:28:46  * Debugger is active!
+2024-05-17 11:28:46  * Debugger PIN: 172-469-799
+2024-05-17 11:29:42 No message provided in the request
+2024-05-17 11:29:42 127.0.0.1 - - [17/May/2024 11:29:42] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-05-17 11:30:57 User input: Hello, how are you?
+2024-05-17 11:31:05 127.0.0.1 - - [17/May/2024 11:31:05] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-05-17 11:31:44 127.0.0.1 - - [17/May/2024 11:31:44] "[32mGET / HTTP/1.1[0m" 302 -
+2024-05-17 11:31:44 127.0.0.1 - - [17/May/2024 11:31:44] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-05-17 11:31:50 127.0.0.1 - - [17/May/2024 11:31:50] "[31m[1mGET /chat HTTP/1.1[0m" 405 -
+2024-05-20 10:12:17 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-20 10:12:17 INFO: [33mPress CTRL+C to quit[0m
+2024-05-20 10:12:17 INFO:  * Restarting with stat
+2024-05-20 10:12:18 WARNING:  * Debugger is active!
+2024-05-20 10:12:18 INFO:  * Debugger PIN: 172-469-799
+2024-05-20 10:12:48 INFO: User input: Hello, how are you?
+2024-05-20 10:12:48 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:48 INFO: Retrying request to /chat/completions in 0.786455 seconds
+2024-05-20 10:12:49 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:49 INFO: Retrying request to /chat/completions in 1.660809 seconds
+2024-05-20 10:12:51 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:52 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:52 INFO: Retrying request to /chat/completions in 0.888786 seconds
+2024-05-20 10:12:53 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:53 INFO: Retrying request to /chat/completions in 1.646740 seconds
+2024-05-20 10:12:55 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 10:12:55 INFO: 127.0.0.1 - - [20/May/2024 10:12:55] "POST /chat HTTP/1.1" 200 -
+2024-05-20 16:19:08 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-20 16:19:08 INFO: [33mPress CTRL+C to quit[0m
+2024-05-20 16:19:08 INFO:  * Restarting with stat
+2024-05-20 16:19:09 WARNING:  * Debugger is active!
+2024-05-20 16:19:09 INFO:  * Debugger PIN: 172-469-799
+2024-05-20 16:19:30 INFO: User input: Hello, how are you?
+2024-05-20 16:19:31 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:31 INFO: Retrying request to /chat/completions in 0.929602 seconds
+2024-05-20 16:19:32 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:32 INFO: Retrying request to /chat/completions in 1.990483 seconds
+2024-05-20 16:19:35 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:36 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:36 INFO: Retrying request to /chat/completions in 0.952761 seconds
+2024-05-20 16:19:37 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:37 INFO: Retrying request to /chat/completions in 1.897708 seconds
+2024-05-20 16:19:39 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-20 16:19:39 INFO: 127.0.0.1 - - [20/May/2024 16:19:39] "POST /chat HTTP/1.1" 200 -
+2024-05-22 11:31:12 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 11:31:12 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 11:31:12 INFO:  * Restarting with stat
+2024-05-22 11:31:13 WARNING:  * Debugger is active!
+2024-05-22 11:31:13 INFO:  * Debugger PIN: 172-469-799
+2024-05-22 11:31:20 INFO: 127.0.0.1 - - [22/May/2024 11:31:20] "[33mPOST /chat/completions HTTP/1.1[0m" 404 -
+2024-05-22 11:31:48 INFO: User input: Hello, how are you?
+2024-05-22 11:31:49 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:49 INFO: Retrying request to /chat/completions in 0.836069 seconds
+2024-05-22 11:31:50 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:50 INFO: Retrying request to /chat/completions in 1.640271 seconds
+2024-05-22 11:31:52 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:52 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:52 INFO: Retrying request to /chat/completions in 0.825764 seconds
+2024-05-22 11:31:53 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:53 INFO: Retrying request to /chat/completions in 1.945363 seconds
+2024-05-22 11:31:56 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 11:31:56 INFO: 127.0.0.1 - - [22/May/2024 11:31:56] "POST /chat HTTP/1.1" 200 -
+2024-05-22 12:07:08 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 12:07:08 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 12:07:08 INFO:  * Restarting with stat
+2024-05-22 12:07:09 WARNING:  * Debugger is active!
+2024-05-22 12:07:09 INFO:  * Debugger PIN: 172-469-799
+2024-05-22 12:07:23 INFO: User input: Hello, how can you assist me today?
+2024-05-22 12:07:24 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:24 INFO: Retrying request to /chat/completions in 0.825472 seconds
+2024-05-22 12:07:25 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:25 INFO: Retrying request to /chat/completions in 1.659240 seconds
+2024-05-22 12:07:27 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:27 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:27 INFO: Retrying request to /chat/completions in 0.890677 seconds
+2024-05-22 12:07:28 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:28 INFO: Retrying request to /chat/completions in 1.782764 seconds
+2024-05-22 12:07:30 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 12:07:30 INFO: 127.0.0.1 - - [22/May/2024 12:07:30] "POST /chat HTTP/1.1" 200 -
+2024-05-22 14:09:05 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:09:05 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:09:05 INFO:  * Restarting with stat
+2024-05-22 14:09:06 WARNING:  * Debugger is active!
+2024-05-22 14:09:06 INFO:  * Debugger PIN: 172-469-799
+2024-05-22 14:09:07 INFO: User input: Hello, how can you assist me today?
+2024-05-22 14:09:08 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:08 INFO: Retrying request to /chat/completions in 0.928169 seconds
+2024-05-22 14:09:09 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:09 INFO: Retrying request to /chat/completions in 1.880653 seconds
+2024-05-22 14:09:11 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:12 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:12 INFO: Retrying request to /chat/completions in 0.867238 seconds
+2024-05-22 14:09:13 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:13 INFO: Retrying request to /chat/completions in 1.919791 seconds
+2024-05-22 14:09:15 INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-05-22 14:09:15 INFO: 127.0.0.1 - - [22/May/2024 14:09:15] "POST /chat HTTP/1.1" 200 -
+2024-05-22 14:23:19 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:23:19 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:23:19 INFO:  * Restarting with stat
+2024-05-22 14:23:20 WARNING:  * Debugger is active!
+2024-05-22 14:23:20 INFO:  * Debugger PIN: 172-469-799
+2024-05-22 14:27:52 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:27:52 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:27:52 INFO:  * Restarting with stat
+2024-05-22 14:27:53 WARNING:  * Debugger is active!
+2024-05-22 14:27:53 INFO:  * Debugger PIN: 172-469-799
+2024-05-22 14:31:34 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:31:34 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:31:34 INFO:  * Restarting with stat
+2024-05-22 14:31:34 WARNING:  * Debugger is active!
+2024-05-22 14:31:34 INFO:  * Debugger PIN: 846-413-941
+2024-05-22 14:33:40 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:33:40 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:33:40 INFO:  * Restarting with stat
+2024-05-22 14:33:41 WARNING:  * Debugger is active!
+2024-05-22 14:33:41 INFO:  * Debugger PIN: 846-413-941
+2024-05-22 14:40:36 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:40:36 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:40:36 INFO:  * Restarting with stat
+2024-05-22 14:40:36 WARNING:  * Debugger is active!
+2024-05-22 14:40:36 INFO:  * Debugger PIN: 846-413-941
+2024-05-22 14:42:51 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-05-22 14:42:51 INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 14:42:51 INFO:  * Restarting with stat
+2024-05-22 14:42:51 WARNING:  * Debugger is active!
+2024-05-22 14:42:51 INFO:  * Debugger PIN: 846-413-941
